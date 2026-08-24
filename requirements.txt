@@ -1,0 +1,15 @@
+numpy
+pandas
+opencv-python
+librosa
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+soundfile
+scipy
+joblib
+tqdm
+Pillow
+torch
+facenet-pytorch
